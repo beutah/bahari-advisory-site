@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0C2D4D&height=200&section=header&text=Bahari%20Advisory&fontColor=2BA39B&fontSize=42&fontAlignY=38&desc=Cloud%2C%20Identity%20%26%20AI%20Engineering%20%E2%80%94%20Built%20for%20Compliance&descColor=c9d6e3&descSize=15&descAlignY=58)
+![banner](banner.png)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,6 +55,5 @@ No dependencies, no build.
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0C2D4D&height=100&section=footer)
 
 </div>
